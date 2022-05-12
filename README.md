@@ -6,4 +6,4 @@ The project is about the world's largest taxi company Uber inc. Uber delivers se
 The objective is to first explore hidden or previously unknown information by applying exploratory data analytics on the dataset and to know the effect of each field on price with every other field of the dataset. Then we apply different machine learning models to complete the analysis. After this, the results of applied machine learning models were compared and analyzed on the basis of accuracy, and then the best performing model was suggested for further predictions of the label ‘Price’.
 
 # DataSet:
-For this project we are taken the dataset from kaggle in which there are 57 columns and approx 6 lakh rows and the file is in csv format.
+For this project we have taken the dataset from kaggle in which there are 57 columns and approx 6 lakh rows and the file is in csv format.
